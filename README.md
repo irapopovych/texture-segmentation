@@ -7,7 +7,7 @@ Instead, the focus is on **feature extraction**, **clustering**, and **morpholog
 ## Methodology
 
 1. **Preprocessing**  
-   - Images follow the format required by the [Prague Texture Segmentation Datagenerator and Benchmark](http://mosaic.utia.cas.cz/).
+   - Input images were taken directly from the [Prague Texture Segmentation Datagenerator and Benchmark](http://mosaic.utia.cas.cz/).
 
 2. **Feature Extraction**  
    - **Gabor filters** are applied with multiple orientations and frequencies to capture texture patterns.  
