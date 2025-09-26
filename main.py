@@ -94,4 +94,5 @@ for idx, image_file in enumerate(image_files, 1):
     # plt.imshow(morphed_image, cmap='jet')
 
     # plt.suptitle(f'File: {image_file}, ARI: {ari_score:.2f}')
+
     # plt.show()
