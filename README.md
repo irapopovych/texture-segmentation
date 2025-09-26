@@ -1,4 +1,4 @@
-# Texture Segmentation with Clustering
+# Texture Segmentation
 
 This project implements an **unsupervised image segmentation pipeline** for texture analysis.  
 The main goal was to explore **classical computer vision** approaches without relying on large deep learning models.  
